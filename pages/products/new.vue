@@ -3,7 +3,7 @@
 </script>
 
 <template>
-  $END$
+Ich bin neu
 </template>
 
 <style scoped>
